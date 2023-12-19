@@ -49,5 +49,4 @@ public class Main {
         receiver.send(noteOffMessage, -1);
         Thread.sleep(20);
     }
-
 }
